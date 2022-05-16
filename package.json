@@ -1,0 +1,21 @@
+{
+  "name": "nexus-directive-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nexus": "^1.4.0-next.7"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.35",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
